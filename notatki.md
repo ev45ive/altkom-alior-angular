@@ -51,3 +51,34 @@ npm start  // lub // ng serve -o
 git stash -u
 git pull -f
 
+## Extensions
+
+https://angular.io/guide/devtools
+Angular is a platform for building mobile and desktop web applications.
+    Join the community of millions of developers who build compelling user interfaces with Angular.
+
+
+https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh
+Angular DevTools
+Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities.
+
+
+https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+Angular Language Service - Visual Studio Marketplace
+Extension for Visual Studio Code - Editor services for Angular templates
+
+
+https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
+Angular 10 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout - Visual Studio Marketplace
+Extension for Visual Studio Code - 242 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, ngRx, RxJS, PWA & Testing)
+
+
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+Prettier - Code formatter - Visual Studio Marketplace
+Extension for Visual Studio Code - Code formatter using prettier
+ 
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+Material Icon Theme - Visual Studio Marketplace
+Extension for Visual Studio Code - Material Design Icons for Visual Studio Code
+
+
