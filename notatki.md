@@ -40,8 +40,14 @@ ng new alior  --routing --strict --style scss
 ? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss ]
 
 ## GIT
+git -c http.sslVerify=false clone https://bitbucket.org/ev45ive/altkom-alior-angular.git altkom-alior-angular
+
 git clone https://bitbucket.org/ev45ive/altkom-alior-angular.git altkom-alior-angular
 cd altkom-alior-angular
 npm i 
 npm start  // lub // ng serve -o 
+
+## Git update
+git stash -u
+git pull -f
 
