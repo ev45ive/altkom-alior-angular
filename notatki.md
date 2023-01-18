@@ -5,7 +5,6 @@ Help -> About -> 1.74.2
 https://code.visualstudio.com/
 Ctrl + ` // View - Terminal
 
-
 https://nodejs.org/en/
 node -v 
 v18.12.0
@@ -39,3 +38,10 @@ ng new alior  --routing --strict --style scss
 
 ? Would you like to add Angular routing? Yes
 ? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss ]
+
+## GIT
+git clone https://bitbucket.org/ev45ive/altkom-alior-angular.git altkom-alior-angular
+cd altkom-alior-angular
+npm i 
+npm start  // lub // ng serve -o 
+
